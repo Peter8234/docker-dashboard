@@ -1,2 +1,2 @@
 # docker-dashboard
-hello world 2333
+hello world
